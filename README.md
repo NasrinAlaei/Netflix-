@@ -1,4 +1,4 @@
-#Netflix Recommendation System using Python
+Netflix Recommendation System using Python
 
 Netflix is a subscription-based streaming platform that allows users to watch movies and TV shows without advertisements. One of the reasons behind the popularity of Netflix is its recommendation system. Its recommendation system recommends movies and TV shows based on the user’s interest.
 
@@ -13,5 +13,6 @@ The recommendation system of Netflix shows you movies and TV shows according to 
 
 The genre of the content is one of the most valuable factors that helps Netflix recommend more content even to new users.
 
-#DATASET
+DATASET
+
 The dataset using to build a Netflix recommendation system using Python is downloaded from Kaggle. The dataset contains information about all the movies and TV shows on Netflix as of 2021. You can download the dataset from 'https://www.kaggle.com/datasets/satpreetmakhija/netflix-movies-and-tv-shows-2021'.
